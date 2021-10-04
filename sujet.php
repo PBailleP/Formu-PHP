@@ -38,7 +38,7 @@
       <textarea  id="message"  name="user_message"></textarea>
     </div>
     <div  class="button">
-     <a href="thanks.php"><button  type="submit">Envoyer votre message</button></a>
+     <button  type="submit">Envoyer votre message</button>
     </div>
   </form>   
 </body>
